@@ -1,0 +1,22 @@
+{
+  "name": "littless-adapter-netlify",
+  "version": "1.0.0",
+  "description": "Littless adapter for netlify",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "littless",
+    "netlify"
+  ],
+  "author": "João Lopes (https://github.com/dpr00f)",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.37"
+  }
+}
